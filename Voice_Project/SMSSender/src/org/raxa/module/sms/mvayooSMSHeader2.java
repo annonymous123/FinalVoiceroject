@@ -14,7 +14,7 @@ import java.util.ArrayList;
 
 public class mvayooSMSHeader2 extends SMSHeaders {
 	
-	private final String user="johnstoecker@gmail.com:fleebyteup";
+	private final String user="foo@bar.com.com:pass";
 
 	private String receipientno;
 	
@@ -29,7 +29,7 @@ public class mvayooSMSHeader2 extends SMSHeaders {
 	private  List<NameValuePair> headers;
 	
 	
-	public mvayooSMSHeader(String message,String pnumber,String senderID){
+	public mvayooSMSHeader2(String message,String pnumber,String senderID){
 		baseURL="http://api.mVaayoo.com/mvaayooapi/MessageCompose";
 		headers=new ArrayList<NameValuePair>();
 		dcs="0";
