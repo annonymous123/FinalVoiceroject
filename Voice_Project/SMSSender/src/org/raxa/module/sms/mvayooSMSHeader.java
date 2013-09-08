@@ -14,7 +14,7 @@ import java.util.ArrayList;
 
 public class mvayooSMSHeader extends SMSHeaders {
 	
-	private final String user="johnstoecker@gmail.com:fleebyteup";
+	private final String user="foo@bar.com:pass";
 
 	private String receipientno;
 	
