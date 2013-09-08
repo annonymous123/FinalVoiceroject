@@ -1,0 +1,323 @@
+2013-09-07 15:48:59 [pool-2-thread-3] INFO  org.raxa.scheduler.OutgoingCallManager  - Asterisk response for call to phone-SIP/1000abc
+2013-09-07 15:48:59 [pool-2-thread-1] INFO  org.asteriskjava.manager.internal.ManagerConnectionImpl  - Determined Asterisk version: Asterisk 11
+2013-09-07 15:48:59 [pool-2-thread-3] INFO  org.raxa.scheduler.OutgoingCallManager  - Success
+2013-09-07 15:48:59 [pool-2-thread-3] INFO  org.asteriskjava.manager.internal.ManagerConnectionImpl  - Closing socket.
+2013-09-07 15:48:59 [pool-2-thread-3] INFO  org.raxa.scheduler.Caller  - Placed a call to the patient with aid 9ca51430-82ec-48e8-bcb6-f81d10ab454d
+2013-09-07 15:48:59 [Asterisk-Java ManagerConnection-2-Reader-0] INFO  org.asteriskjava.manager.internal.ManagerReaderImpl  - Terminating reader thread: No more lines available: Scanner closed
+2013-09-07 15:48:59 [pool-2-thread-2] INFO  org.raxa.scheduler.OutgoingCallManager  - Asterisk response for call to phone-SIP/1000abc
+2013-09-07 15:48:59 [pool-2-thread-2] INFO  org.raxa.scheduler.OutgoingCallManager  - Success
+2013-09-07 15:48:59 [pool-2-thread-1] INFO  org.raxa.scheduler.OutgoingCallManager  - Asterisk response for call to phone-SIP/1000abc
+2013-09-07 15:48:59 [pool-2-thread-2] INFO  org.asteriskjava.manager.internal.ManagerConnectionImpl  - Closing socket.
+2013-09-07 15:48:59 [pool-2-thread-1] INFO  org.raxa.scheduler.OutgoingCallManager  - Success
+2013-09-07 15:48:59 [pool-2-thread-2] INFO  org.raxa.scheduler.Caller  - Placed a call to the patient with aid 66b76141-592f-4ab0-b8aa-dfbc1a11045b
+2013-09-07 15:48:59 [Asterisk-Java ManagerConnection-0-Reader-0] INFO  org.asteriskjava.manager.internal.ManagerReaderImpl  - Terminating reader thread: No more lines available: null
+2013-09-07 15:48:59 [pool-2-thread-1] INFO  org.asteriskjava.manager.internal.ManagerConnectionImpl  - Closing socket.
+2013-09-07 15:48:59 [pool-2-thread-1] INFO  org.raxa.scheduler.Caller  - Placed a call to the patient with aid 2a64aaa0-d02a-4056-9195-ef5f24d49c49
+2013-09-07 15:48:59 [Asterisk-Java ManagerConnection-1-Reader-0] INFO  org.asteriskjava.manager.internal.ManagerReaderImpl  - Terminating reader thread: No more lines available: Scanner closed
+2013-09-07 15:48:59 [pool-3-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:48:59 [pool-3-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:48:59 [pool-3-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:00 [pool-3-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:00 [pool-3-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:00 [pool-3-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:00 [pool-3-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:00 [pool-3-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:00 [pool-3-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:00 [pool-3-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:00 [pool-3-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:00 [pool-3-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:00 [pool-3-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:00 [pool-3-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:00 [pool-3-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:00 [pool-3-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:00 [pool-3-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:00 [pool-3-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:00 [pool-3-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:00 [pool-3-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:00 [pool-3-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:00 [pool-3-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:00 [pool-3-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:00 [pool-3-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:00 [pool-3-thread-2] INFO  org.raxa.module.sms.SMSSender  - Sending 
+ message:Hello Ishan Mehta This is your Medicine Reminder Now you have to take 9 tabletof 37-c Take Care Get Well Soon 
+ Phone Number:8093672342
+2013-09-07 15:49:00 [pool-3-thread-3] INFO  org.raxa.module.sms.SMSSender  - Sending 
+ message:Hello Ishan Mehta This is your Medicine Reminder Now you have to take 9 tabletof 37-c Take Care Get Well Soon 
+ Phone Number:8093672342
+2013-09-07 15:49:00 [pool-3-thread-1] INFO  org.raxa.module.sms.SMSSender  - Sending 
+ message:Hello Ishan Mehta This is your Medicine Reminder Now you have to take 9 tabletof 37-c Take Care Get Well Soon 
+ Phone Number:8093672342
+2013-09-07 15:49:48 [pool-1-thread-1] INFO  org.raxa.scheduler.GetAlertInfo  - Trying to get the max retry count
+2013-09-07 15:49:48 [pool-1-thread-1] INFO  org.raxa.scheduler.GetAlertInfo  - Trying to get the max retry count
+2013-09-07 15:49:48 [pool-1-thread-1] INFO  org.raxa.scheduler.AlertSetter  - In CallSetter:run-No IVRTuple found for the next interval
+2013-09-07 15:49:49 [pool-4-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:49 [pool-4-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:49:50 [pool-4-thread-2] INFO  org.raxa.module.sms.SMSSender  - Sending 
+ message:Hello Ishan Mehta This is your Medicine Reminder Now you have to take 9 tabletof 37-c Take Care Get Well Soon 
+ Phone Number:8093672342
+2013-09-07 15:49:50 [pool-4-thread-3] INFO  org.raxa.module.sms.SMSSender  - Sending 
+ message:Hello Ishan Mehta This is your Medicine Reminder Now you have to take 9 tabletof 37-c Take Care Get Well Soon 
+ Phone Number:8093672342
+2013-09-07 15:49:50 [pool-4-thread-1] INFO  org.raxa.module.sms.SMSSender  - Sending 
+ message:Hello Ishan Mehta This is your Medicine Reminder Now you have to take 9 tabletof 37-c Take Care Get Well Soon 
+ Phone Number:8093672342
+2013-09-07 15:50:38 [pool-1-thread-2] INFO  org.raxa.scheduler.GetAlertInfo  - Trying to get the max retry count
+2013-09-07 15:50:38 [pool-1-thread-2] INFO  org.raxa.scheduler.GetAlertInfo  - Trying to get the max retry count
+2013-09-07 15:50:38 [pool-1-thread-2] INFO  org.raxa.scheduler.AlertSetter  - In CallSetter:run-No IVRTuple found for the next interval
+2013-09-07 15:50:39 [pool-5-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:39 [pool-5-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:50:40 [pool-5-thread-3] INFO  org.raxa.module.sms.SMSSender  - Sending 
+ message:Hello Ishan Mehta This is your Medicine Reminder Now you have to take 9 tabletof 37-c Take Care Get Well Soon 
+ Phone Number:8093672342
+2013-09-07 15:50:40 [pool-5-thread-1] INFO  org.raxa.module.sms.SMSSender  - Sending 
+ message:Hello Ishan Mehta This is your Medicine Reminder Now you have to take 9 tabletof 37-c Take Care Get Well Soon 
+ Phone Number:8093672342
+2013-09-07 15:50:40 [pool-5-thread-2] INFO  org.raxa.module.sms.SMSSender  - Sending 
+ message:Hello Ishan Mehta This is your Medicine Reminder Now you have to take 9 tabletof 37-c Take Care Get Well Soon 
+ Phone Number:8093672342
+2013-09-07 15:59:00 [pool-1-thread-1] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+2013-09-07 15:59:00 [pool-1-thread-1] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.2.2.Final}
+2013-09-07 15:59:00 [pool-1-thread-1] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+2013-09-07 15:59:00 [pool-1-thread-1] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+2013-09-07 15:59:00 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2013-09-07 15:59:00 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000040: Configuration resource: /hibernate.cfg.xml
+2013-09-07 15:59:00 [pool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-09-07 15:59:00 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000221: Reading mappings from resource: Patient.hbm.xml
+2013-09-07 15:59:00 [pool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-09-07 15:59:01 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000221: Reading mappings from resource: IvrMsg.hbm.xml
+2013-09-07 15:59:01 [pool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-09-07 15:59:01 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000221: Reading mappings from resource: SmsMsg.hbm.xml
+2013-09-07 15:59:01 [pool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-09-07 15:59:01 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000221: Reading mappings from resource: Alert.hbm.xml
+2013-09-07 15:59:01 [pool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-09-07 15:59:01 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000221: Reading mappings from resource: PAlert.hbm.xml
+2013-09-07 15:59:01 [pool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-09-07 15:59:01 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000221: Reading mappings from resource: SmsRecord.hbm.xml
+2013-09-07 15:59:01 [pool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-09-07 15:59:01 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000041: Configured SessionFactory: null
+2013-09-07 15:59:01 [pool-1-thread-1] INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2013-09-07 15:59:01 [pool-1-thread-1] INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20
+2013-09-07 15:59:01 [pool-1-thread-1] INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000006: Autocommit mode: false
+2013-09-07 15:59:01 [pool-1-thread-1] INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000401: using driver [org.gjt.mm.mysql.Driver] at URL [jdbc:mysql://127.0.0.1/atul]
+2013-09-07 15:59:01 [pool-1-thread-1] INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000046: Connection properties: {user=atul, password=****}
+2013-09-07 15:59:02 [pool-1-thread-1] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2013-09-07 15:59:02 [pool-1-thread-1] INFO  org.hibernate.engine.jdbc.internal.LobCreatorBuilder  - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2013-09-07 15:59:02 [pool-1-thread-1] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2013-09-07 15:59:03 [pool-1-thread-1] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+2013-09-07 15:59:03 [pool-1-thread-1] INFO  org.hibernate.tuple.PojoInstantiator  - HHH000182: No default (no-argument) constructor for class: org.raxa.database.SmsRecord (class must be instantiated by Interceptor)
+2013-09-07 15:59:03 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.SchemaValidator  - HHH000229: Running schema validator
+2013-09-07 15:59:03 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.SchemaValidator  - HHH000102: Fetching database metadata
+2013-09-07 15:59:03 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000261: Table found: atul.alert
+2013-09-07 15:59:03 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000037: Columns: [id, alerttype, msgid, retrycount, scheduletime, serviceinfo, isexecuted, lasttry, pid, aid]
+2013-09-07 15:59:03 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000261: Table found: atul.ivrMsg
+2013-09-07 15:59:03 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000037: Columns: [content, id, itemnumber, ivrid]
+2013-09-07 15:59:03 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000261: Table found: atul.pAlert
+2013-09-07 15:59:03 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000037: Columns: [alerttype, paid, pid]
+2013-09-07 15:59:03 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000261: Table found: atul.patient
+2013-09-07 15:59:03 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000037: Columns: [pname, preferlanguage, snumber, pid, pnumber]
+2013-09-07 15:59:03 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000261: Table found: atul.smsMsg
+2013-09-07 15:59:03 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000037: Columns: [content, id, smsid, itemnumber]
+2013-09-07 15:59:03 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000261: Table found: atul.smsRecord
+2013-09-07 15:59:03 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000037: Columns: [id, transactionid, isexecuted, reply, pnumber, msg, intime, outtime]
+2013-09-07 15:59:04 [pool-1-thread-1] INFO  org.raxa.scheduler.GetAlertInfo  - Trying to get the max retry count
+2013-09-07 15:59:04 [pool-1-thread-1] INFO  org.raxa.scheduler.GetAlertInfo  - Trying to get the max retry count
+2013-09-07 15:59:04 [pool-1-thread-1] INFO  org.raxa.scheduler.AlertSetter  - In CallSetter:run-No IVRTuple found for the next interval
+2013-09-07 15:59:05 [pool-2-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:05 [pool-2-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:05 [pool-2-thread-4] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:05 [pool-2-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-4] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-4] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-4] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-4] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-4] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-4] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-4] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 15:59:06 [pool-2-thread-4] INFO  org.raxa.module.sms.SMSSender  - Sending 
+ message:Hello Ishan Mehta This is your Medicine Reminder Now you have to take 9 tabletof 37-c Take Care Get Well Soon 
+ Phone Number:8093672342
+2013-09-07 15:59:06 [pool-2-thread-1] INFO  org.raxa.module.sms.SMSSender  - Sending 
+ message:Hello Atul This is your Medicine Reminder,Today you have to take 6 tablet of acetamide Take Care Get Well Soon 
+ Phone Number:7744835793
+2013-09-07 15:59:06 [pool-2-thread-3] INFO  org.raxa.module.sms.SMSSender  - Sending 
+ message:Hello Ishan Mehta This is your Medicine Reminder Now you have to take 9 tabletof 37-c Take Care Get Well Soon 
+ Phone Number:8093672342
+2013-09-07 15:59:06 [pool-2-thread-2] INFO  org.raxa.module.sms.SMSSender  - Sending 
+ message:Hello Ishan Mehta This is your Medicine Reminder Now you have to take 9 tabletof 37-c Take Care Get Well Soon 
+ Phone Number:8093672342
+2013-09-07 15:59:07 [pool-2-thread-1] INFO  org.raxa.scheduler.SMSManager  - Updating Alert for AL E R T A I D:1e648ef2-b51e-49e1-844f-b17e7630e6f3
+2013-09-07 15:59:07 [pool-2-thread-2] INFO  org.raxa.scheduler.SMSManager  - Updating Alert for AL E R T A I D:2a64aaa0-d02a-4056-9195-ef5f24d49c49
+2013-09-07 15:59:07 [pool-2-thread-4] INFO  org.raxa.scheduler.SMSManager  - Updating Alert for AL E R T A I D:9ca51430-82ec-48e8-bcb6-f81d10ab454d
+2013-09-07 15:59:07 [pool-2-thread-3] INFO  org.raxa.scheduler.SMSManager  - Updating Alert for AL E R T A I D:66b76141-592f-4ab0-b8aa-dfbc1a11045b
+2013-09-07 16:03:45 [pool-1-thread-1] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+2013-09-07 16:03:45 [pool-1-thread-1] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.2.2.Final}
+2013-09-07 16:03:45 [pool-1-thread-1] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+2013-09-07 16:03:45 [pool-1-thread-1] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+2013-09-07 16:03:45 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2013-09-07 16:03:45 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000040: Configuration resource: /hibernate.cfg.xml
+2013-09-07 16:03:45 [pool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-09-07 16:03:45 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000221: Reading mappings from resource: Patient.hbm.xml
+2013-09-07 16:03:46 [pool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-09-07 16:03:46 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000221: Reading mappings from resource: IvrMsg.hbm.xml
+2013-09-07 16:03:46 [pool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-09-07 16:03:46 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000221: Reading mappings from resource: SmsMsg.hbm.xml
+2013-09-07 16:03:46 [pool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-09-07 16:03:46 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000221: Reading mappings from resource: Alert.hbm.xml
+2013-09-07 16:03:46 [pool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-09-07 16:03:46 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000221: Reading mappings from resource: PAlert.hbm.xml
+2013-09-07 16:03:46 [pool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-09-07 16:03:46 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000221: Reading mappings from resource: SmsRecord.hbm.xml
+2013-09-07 16:03:46 [pool-1-thread-1] WARN  org.hibernate.internal.util.xml.DTDEntityResolver  - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2013-09-07 16:03:46 [pool-1-thread-1] INFO  org.hibernate.cfg.Configuration  - HHH000041: Configured SessionFactory: null
+2013-09-07 16:03:46 [pool-1-thread-1] INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2013-09-07 16:03:46 [pool-1-thread-1] INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20
+2013-09-07 16:03:46 [pool-1-thread-1] INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000006: Autocommit mode: false
+2013-09-07 16:03:46 [pool-1-thread-1] INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000401: using driver [org.gjt.mm.mysql.Driver] at URL [jdbc:mysql://127.0.0.1/atul]
+2013-09-07 16:03:46 [pool-1-thread-1] INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000046: Connection properties: {user=atul, password=****}
+2013-09-07 16:03:47 [pool-1-thread-1] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2013-09-07 16:03:47 [pool-1-thread-1] INFO  org.hibernate.engine.jdbc.internal.LobCreatorBuilder  - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2013-09-07 16:03:47 [pool-1-thread-1] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2013-09-07 16:03:47 [pool-1-thread-1] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+2013-09-07 16:03:48 [pool-1-thread-1] INFO  org.hibernate.tuple.PojoInstantiator  - HHH000182: No default (no-argument) constructor for class: org.raxa.database.SmsRecord (class must be instantiated by Interceptor)
+2013-09-07 16:03:48 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.SchemaValidator  - HHH000229: Running schema validator
+2013-09-07 16:03:48 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.SchemaValidator  - HHH000102: Fetching database metadata
+2013-09-07 16:03:48 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000261: Table found: atul.alert
+2013-09-07 16:03:48 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000037: Columns: [id, alerttype, msgid, retrycount, scheduletime, serviceinfo, isexecuted, lasttry, pid, aid]
+2013-09-07 16:03:48 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000261: Table found: atul.ivrMsg
+2013-09-07 16:03:48 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000037: Columns: [content, id, itemnumber, ivrid]
+2013-09-07 16:03:48 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000261: Table found: atul.pAlert
+2013-09-07 16:03:48 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000037: Columns: [alerttype, paid, pid]
+2013-09-07 16:03:48 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000261: Table found: atul.patient
+2013-09-07 16:03:48 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000037: Columns: [pname, preferlanguage, snumber, pid, pnumber]
+2013-09-07 16:03:48 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000261: Table found: atul.smsMsg
+2013-09-07 16:03:48 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000037: Columns: [content, id, smsid, itemnumber]
+2013-09-07 16:03:48 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000261: Table found: atul.smsRecord
+2013-09-07 16:03:48 [pool-1-thread-1] INFO  org.hibernate.tool.hbm2ddl.TableMetadata  - HHH000037: Columns: [id, transactionid, isexecuted, reply, pnumber, msg, intime, outtime]
+2013-09-07 16:03:49 [pool-1-thread-1] INFO  org.raxa.scheduler.GetAlertInfo  - Trying to get the max retry count
+2013-09-07 16:03:49 [pool-1-thread-1] INFO  org.raxa.scheduler.GetAlertInfo  - Trying to get the max retry count
+2013-09-07 16:03:49 [pool-1-thread-1] INFO  org.raxa.scheduler.AlertSetter  - In CallSetter:run-No IVRTuple found for the next interval
+2013-09-07 16:03:50 [pool-2-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:50 [pool-2-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:50 [pool-2-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:50 [pool-2-thread-4] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-4] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-4] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-4] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-4] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-3] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-1] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-4] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-4] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-4] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-2] INFO  org.raxa.alertmessage.MessageTemplate  - Parsing the content of msgId(Json String)
+2013-09-07 16:03:51 [pool-2-thread-1] INFO  org.raxa.module.sms.SMSSender  - Sending 
+ message:Hello Atul This is your Medicine Reminder,Today you have to take 6 tablet of acetamide Take Care Get Well Soon 
+ Phone Number:7744835793
+2013-09-07 16:03:51 [pool-2-thread-4] INFO  org.raxa.module.sms.SMSSender  - Sending 
+ message:Hello Ishan Mehta This is your Medicine Reminder Now you have to take 9 tabletof 37-c Take Care Get Well Soon 
+ Phone Number:8093672342
+2013-09-07 16:03:51 [pool-2-thread-2] INFO  org.raxa.module.sms.SMSSender  - Sending 
+ message:Hello Ishan Mehta This is your Medicine Reminder Now you have to take 9 tabletof 37-c Take Care Get Well Soon 
+ Phone Number:8093672342
+2013-09-07 16:03:51 [pool-2-thread-3] INFO  org.raxa.module.sms.SMSSender  - Sending 
+ message:Hello Ishan Mehta This is your Medicine Reminder Now you have to take 9 tabletof 37-c Take Care Get Well Soon 
+ Phone Number:8093672342
+2013-09-07 16:03:57 [pool-2-thread-1] INFO  org.raxa.scheduler.SMSManager  - Updating Alert for AL E R T A I D:1e648ef2-b51e-49e1-844f-b17e7630e6f3
+2013-09-07 16:03:57 [pool-2-thread-4] INFO  org.raxa.scheduler.SMSManager  - Updating Alert for AL E R T A I D:9ca51430-82ec-48e8-bcb6-f81d10ab454d
+2013-09-07 16:03:57 [pool-2-thread-2] INFO  org.raxa.scheduler.SMSManager  - Updating Alert for AL E R T A I D:2a64aaa0-d02a-4056-9195-ef5f24d49c49
+2013-09-07 16:03:57 [pool-2-thread-3] INFO  org.raxa.scheduler.SMSManager  - Updating Alert for AL E R T A I D:66b76141-592f-4ab0-b8aa-dfbc1a11045b
+2013-09-07 16:04:39 [pool-1-thread-1] INFO  org.raxa.scheduler.GetAlertInfo  - Trying to get the max retry count
+2013-09-07 16:04:39 [pool-1-thread-1] INFO  org.raxa.scheduler.GetAlertInfo  - Trying to get the max retry count
+2013-09-07 16:04:39 [pool-1-thread-1] INFO  org.raxa.scheduler.AlertSetter  - In CallSetter:run-No IVRTuple found for the next interval
+2013-09-07 16:04:39 [pool-1-thread-1] INFO  org.raxa.scheduler.AlertSetter  - In CallSetter:run-No SMSTuple found for the next interval
+2013-09-07 16:05:29 [pool-1-thread-1] INFO  org.raxa.scheduler.GetAlertInfo  - Trying to get the max retry count
+2013-09-07 16:05:29 [pool-1-thread-1] INFO  org.raxa.scheduler.GetAlertInfo  - Trying to get the max retry count
+2013-09-07 16:05:29 [pool-1-thread-1] INFO  org.raxa.scheduler.AlertSetter  - In CallSetter:run-No IVRTuple found for the next interval
+2013-09-07 16:05:29 [pool-1-thread-1] INFO  org.raxa.scheduler.AlertSetter  - In CallSetter:run-No SMSTuple found for the next interval
+2013-09-07 16:06:19 [pool-1-thread-1] INFO  org.raxa.scheduler.GetAlertInfo  - Trying to get the max retry count
+2013-09-07 16:06:19 [pool-1-thread-1] INFO  org.raxa.scheduler.GetAlertInfo  - Trying to get the max retry count
+2013-09-07 16:06:19 [pool-1-thread-1] INFO  org.raxa.scheduler.AlertSetter  - In CallSetter:run-No IVRTuple found for the next interval
+2013-09-07 16:06:19 [pool-1-thread-1] INFO  org.raxa.scheduler.AlertSetter  - In CallSetter:run-No SMSTuple found for the next interval
