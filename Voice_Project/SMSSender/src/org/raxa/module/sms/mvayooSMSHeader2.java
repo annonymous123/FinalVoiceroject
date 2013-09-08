@@ -12,7 +12,7 @@ import org.apache.http.message.BasicNameValuePair;
 import java.util.List;
 import java.util.ArrayList;
 
-public class mvayooSMSHeader extends SMSHeaders {
+public class mvayooSMSHeader2 extends SMSHeaders {
 	
 	private final String user="johnstoecker@gmail.com:fleebyteup";
 
