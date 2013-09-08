@@ -46,7 +46,7 @@ public class SMSSender {
 	}
 	
 	private List <NameValuePair> getHeadersAndSetBaseUrl(String message,String pnumber,String senderId){
-		headers=new mvayooSMSHeader(message,pnumber,senderId);
+		headers=new mvayooSMSHeader2(message,pnumber,senderId);
 		
 		HTTPRequest.setURLBase(headers.baseURL);
 		
